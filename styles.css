@@ -5,7 +5,8 @@
 
 #octocat {
   display: block;
-  width:384px;
+  width:1000px;
+  height: 1000px;
   margin: 50px auto;
 }
 
